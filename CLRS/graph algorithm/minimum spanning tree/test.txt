@@ -1,0 +1,15 @@
+abcdefghi
+ab 4
+ah 8
+hb 11
+bc 8
+hi 7
+ic 2
+hg 1
+ig 6
+cf 4
+gf 2
+cd 7
+df 14
+de 9
+fe 10

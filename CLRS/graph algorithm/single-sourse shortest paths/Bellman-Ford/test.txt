@@ -1,0 +1,13 @@
+5
+stxyz
+10
+sy 7
+st 6
+ty 8
+zs 2
+yz 9
+yx -3
+zx 7
+xt -2
+tx 5
+tz -4
